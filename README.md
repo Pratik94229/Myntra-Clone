@@ -1,6 +1,6 @@
-# Mnytra Clone
+# Myntra Clone
 
-Welcome to the Mnytra Clone project! This is a simple web page created using HTML and CSS to replicate the basic layout and styling of the popular online fashion store, Mnytra. This project serves as a learning exercise and demonstration of front-end web development skills.
+Welcome to the Mnytra Clone project! This is a simple web page created using HTML and CSS to replicate the basic layout and styling of the popular online fashion store, Myntra. This project serves as a learning exercise and demonstration of front-end web development skills.
 
 ## Table of Contents
 
